@@ -10,7 +10,7 @@ export default function Home() {
         queryFn :()=>Api(),
 
      })
-     console.log(todo);
+     console.log(todo);  
      
 
      if(isPending){
