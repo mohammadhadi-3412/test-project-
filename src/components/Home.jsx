@@ -11,7 +11,7 @@ export default function Home() {
 
      })
      console.log(todo);  
-     
+     // there some thing happen before that improve the project 
 
      if(isPending){
         return <h2>data  is loading...</h2>
